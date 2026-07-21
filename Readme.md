@@ -33,7 +33,7 @@ By combining semantic search with modern AI, the system retrieves relevant produ
 ## 🎬 Demo
 
 **LinkedIn Demo:**
-https://www.linkedin.com/posts/prajwal-k-c-714868213_prismaai-artificialintelligence-agenticai-ugcPost-7485164364178812928-aWpc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYN8AABNN-Swjphs8b1xtZuZahWlQ2RI3U
+https://www.linkedin.com/posts/prajwal-k-c-714868213_artificialintelligence-agenticai-llm-ugcPost-7484432413222141952-BxOD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYN8AABNN-Swjphs8b1xtZuZahWlQ2RI3U
 
 ---
 
